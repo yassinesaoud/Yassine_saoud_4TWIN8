@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE = "ysaoud/images"
+        IMAGE = "yassine/student-management"
         TAG = "1.0.0"
     }
 
